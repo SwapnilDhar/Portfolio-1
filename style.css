@@ -193,7 +193,7 @@ p {
 
 /* Start of hero section */
 #hero {
-  background-image: url(/images/image1.jpg);
+  background-image: url(images/image1.jpg);
   background-size: cover;
   background-position: 110% 80%;
   position: relative;
@@ -358,7 +358,7 @@ p {
   flex-direction: column;
   padding: 30px;
   border-radius: 10px;
-  background-image: url(/images/image3.jpg);
+  background-image: url(images/image3.jpg);
   background-position: center;
   background-size: cover;
   margin: 10px 5%;
